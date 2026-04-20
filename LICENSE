@@ -1,15 +1,13 @@
 Copyright (c) 2026 Marc Lawrence Dizon
 
-This software is provided as compiled binaries only. The source code
-is encrypted within the .hmis container and is not provided in human-readable
-form.
+This software is provided as compiled binaries only. The source code is encrypted within the .hmis container and is not provided in human-readable form.
 
 You may:
 - Download and run the compiled hmis binary on your own systems
 - Distribute the hmis binary and data.hmis together unmodified
 
 You may not:
-- Reverse engineer, decompile, or extract the Python source from data.hmis
+- Reverse engineer, decompile, or extract the Python source from data.hmis unless provided with explicit permission.
 - Modify the binary or encrypted payload
 - Use the source code (if extracted) for any purpose
 - Claim this software as your own
